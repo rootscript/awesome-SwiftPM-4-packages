@@ -18,12 +18,15 @@ A list of packages that work with SwiftPM 4 (Apple Swift Package Manager 4)
     * `Import Progress` rather than `Progress.swift`
 
 
-## Untested Packages:
+## Untested Swift Packages:
 * Just <https://github.com/JustHTTP/Just>
 * SwiftSoup <https://github.com/scinfu/SwiftSoup>
 
 
-## Useful Packages that need updating:
-* SwiftyUtils - issue created: https://github.com/tbaranes/SwiftyUtils/issues/104
+## Useful Swift Packages that need updating:
+* SwiftyUtils - https://github.com/tbaranes/SwiftyUtils/issues/104
+  * [x] issue created
+  * [ ] complete
+* OptionKit - https://github.com/nomothetis/OptionKit/issues/14
   * [x] issue created
   * [ ] complete
