@@ -2,11 +2,6 @@
 A list of packages that work with SwiftPM 4 (Apple Swift Package Manager 4)
 
 ## Useful packages that work with Apple Swift Package Manager - Swift 4.0.0:
-
-* Bullet list
-  * Nested bullet
-  * Sub-nested bullet etc
-* Bullet list item 2
 * SwiftyJSON <https://github.com/SwiftyJSON/SwiftyJSON>
   * `.package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "4.0.0")`
 * Swiftline <https://github.com/Swiftline/Swiftline>
@@ -30,3 +25,5 @@ A list of packages that work with SwiftPM 4 (Apple Swift Package Manager 4)
 * OptionKit - https://github.com/nomothetis/OptionKit/issues/14
   * [x] issue created
   * [ ] complete
+
+ - - - -
