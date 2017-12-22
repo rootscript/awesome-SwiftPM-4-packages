@@ -1,7 +1,7 @@
 # awesome-SwiftPM-4-packages
-A list of packages that work with SwiftPM 4 (Swift Package Manager 4)
+A list of packages that work with SwiftPM 4 (Apple Swift Package Manager 4)
 
-## Useful packages that work with:
+## Useful packages that work with Apple Swift Package Manager - Swift 4.0.0:
 
 * Bullet list
   * Nested bullet
