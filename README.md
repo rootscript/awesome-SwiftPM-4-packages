@@ -27,6 +27,7 @@ Note: I don't find the above list particularly useful as they don't state which 
 ## Untested Swift Packages:
 * Just <https://github.com/JustHTTP/Just>
 * SwiftSoup <https://github.com/scinfu/SwiftSoup>
+* PathKit <https://github.com/kylef/PathKit>
 
 
 ## Useful Swift Packages that need updating:
