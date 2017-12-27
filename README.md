@@ -1,6 +1,12 @@
 # awesome-SwiftPM-4-packages
 A list of packages that work with SwiftPM 4 (Apple Swift Package Manager 4)
 
+Where can I find Swift packages?
+One issue the Swift Package Manager is that unlike similar tools, there’s no built-in functionality to search for packages.
+* <https://packagecatalog.com/> IBM’s Swift Package Catalog — IBM has announced the deprecation of the Swift Package Catalog, to take place in January of 2018.
+* <https://swiftmodules.com>
+* <http://swiftpack.co/>
+
 ## Useful packages that work with Apple Swift Package Manager - Swift 4.0.0:
 * SwiftyJSON <https://github.com/SwiftyJSON/SwiftyJSON>
   * `.package(url: "https://github.com/SwiftyJSON/SwiftyJSON.git", from: "4.0.0")`
