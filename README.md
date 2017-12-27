@@ -6,6 +6,9 @@ One issue the Swift Package Manager is that unlike similar tools, there’s no b
 * <https://packagecatalog.com/> IBM’s Swift Package Catalog — IBM has announced the deprecation of the Swift Package Catalog, to take place in January of 2018.
 * <https://swiftmodules.com>
 * <http://swiftpack.co/>
+* <https://swift.org/source-compatibility/#current-list-of-projects>
+
+Note: I don't find the above list particularly useful as they don't state which version of SPM they target (which is why I'm maling this SPM4 list).
 
 ## Useful packages that work with Apple Swift Package Manager - Swift 4.0.0:
 * SwiftyJSON <https://github.com/SwiftyJSON/SwiftyJSON>
