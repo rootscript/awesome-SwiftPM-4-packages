@@ -11,6 +11,8 @@ A list of packages that work with SwiftPM 4 (Apple Swift Package Manager 4)
 * Progress <https://github.com/jkandzi/Progress.swift>
   * `.package(url: "https://github.com/jkandzi/Progress.swift.git", from: "0.3.0")`
     * `Import Progress` rather than `Progress.swift`
+* SwiftyTextTable <https://github.com/scottrhoyt/SwiftyTextTable>
+  * `.package(url: "https://github.com/scottrhoyt/SwiftyTextTable.git", from: "0.8.0")`
 
 
 ## Untested Swift Packages:
