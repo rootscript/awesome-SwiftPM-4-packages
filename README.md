@@ -22,7 +22,8 @@ Note: I don't find the above list particularly useful as they don't state which 
     * `Import Progress` rather than `Progress.swift`
 * SwiftyTextTable <https://github.com/scottrhoyt/SwiftyTextTable>
   * `.package(url: "https://github.com/scottrhoyt/SwiftyTextTable.git", from: "0.8.0")`
-
+* CryptoSwift <https://github.com/krzyzanowskim/CryptoSwift>
+  * `.package(url: "https://github.com/krzyzanowskim/CryptoSwift.git", from: "0.8.0")`
 
 ## Untested Swift Packages:
 * Just <https://github.com/JustHTTP/Just>
@@ -37,5 +38,7 @@ Note: I don't find the above list particularly useful as they don't state which 
 * OptionKit - https://github.com/nomothetis/OptionKit/issues/14
   * [x] issue created
   * [ ] complete
-
+* Cryptex - https://github.com/trsathya/Cryptex/issues/2
+  * [x] issue created
+  * [ ] complete
  - - - -
