@@ -24,6 +24,10 @@ Note: I don't find the above list particularly useful as they don't state which 
   * `.package(url: "https://github.com/scottrhoyt/SwiftyTextTable.git", from: "0.8.0")`
 * CryptoSwift <https://github.com/krzyzanowskim/CryptoSwift>
   * `.package(url: "https://github.com/krzyzanowskim/CryptoSwift.git", from: "0.8.0")`
+* Cryptex - <https://github.com/trsathya/Cryptex>
+  * `.package(url: "https://github.com/trsathya/Cryptex.git", from: "0.0.3")`
+  * [x] SwiftPM4 compatible
+  * [ ] Useage Documentation
 
 ## Untested Swift Packages:
 * Just <https://github.com/JustHTTP/Just>
@@ -31,7 +35,7 @@ Note: I don't find the above list particularly useful as they don't state which 
 * PathKit <https://github.com/kylef/PathKit>
 
 
-## Useful Swift Packages that need updating:
+## Useful Swift Packages that need updating (or recently updated):
 * SwiftyUtils - https://github.com/tbaranes/SwiftyUtils/issues/104
   * [x] issue created
   * [ ] complete
@@ -40,5 +44,5 @@ Note: I don't find the above list particularly useful as they don't state which 
   * [ ] complete
 * Cryptex - https://github.com/trsathya/Cryptex/issues/2
   * [x] issue created
-  * [ ] complete
+  * [x] complete
  - - - -
