@@ -33,6 +33,7 @@ Note: I don't find the above list particularly useful as they don't state which 
 * Just <https://github.com/JustHTTP/Just>
 * SwiftSoup <https://github.com/scinfu/SwiftSoup>
 * PathKit <https://github.com/kylef/PathKit>
+* SwifterSwift <https://github.com/SwifterSwift/SwifterSwift>
 
 
 ## Useful Swift Packages that need updating (or recently updated):
